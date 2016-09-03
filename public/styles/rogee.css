@@ -1,0 +1,49 @@
+html { padding: 3em 0 3em ; }
+html * { background: transparent ; }
+
+body { font-size: 80% ; font-family: "Open Sans","Helvetica","Arial",serif; line-height: 1.5em ; background: white ; }
+.maxwidth { margin: 0 auto; max-width: 900px; padding: 0 20px 0; }
+
+.header { margin: 0 auto 20px ; text-align: center ; letter-spacing: 2px ; border-top: 1px solid black ; border-bottom: 4px solid black ; }
+.header span.inset { display: block ; margin: -10px auto 15px ; width: 17em ; background: white ;  }
+
+h1, h2, h3, h4 { font-family: "Roboto Slab","Helvetica","Ariel",serif; letter-spacing: 2px ; padding: 10px 0 ; }
+nav { margin: 0 auto 10px ; }
+nav ul { margin: 0 ; padding: 0 ; list-style: none ;  }
+nav ul li { padding: .7em 0 ; }
+
+nav h2 { letter-spacing: 2px ; font-size: 170% ;  }
+nav h2 a { display: block ; text-decoration: none ; padding: 10px 10px ; } 
+a { background: transparent ; color: black ; }
+nav h2 a:hover { background: #222 ; color: #eee ; }
+nav p { padding: 0 12px 0 ; }
+
+.footer { margin: 40px 0 1em ; padding: 20px 20px 40px; background-color: #e9e9e9; }
+.footer * { color: #555 ; }
+.footer section { padding: 0 20px 0 ; border-top: 0 ; }
+.footer h3, .footer p, .footer form, .footer section div { padding: 0 10px ; }
+
+article h1 { border-bottom: 1px #777 dotted ; padding-bottom: 0.5em ; margin-bottom: 0.8em ; }
+article h3 { border-bottom: 1px #aaa dotted ; padding-bottom: 0.5em ; margin-bottom: 0.6em ; }
+
+article pre { display: block ; padding: 0.7em ; background: #dfdfdf ; border: 1px dotted #aaa ; margin: 10px 10px 0 ; }
+
+li { margin-bottom: 0.7em ; }
+
+.addon:hover { background: #fafafa ; }
+
+li, td {
+-webkit-transition: background 0.5s ease-in;
+-moz-transition: background 0.5s ease-in;
+-o-transition: background 0.5s ease-in;
+transition: background 0.5s ease-in;
+}
+
+table { text-align: left; width: auto; }
+th, td { margin: 5px 40px 5px 0px ; padding: 10px 15px ;
+    vertical-align: top; }
+th.g_o, td.g_o { margin: 5px 0px 5px 0px ; }
+td:hover { background: #fafafa ; }
+
+a.tipButton { border: 0; padding: 7px 10px; background-color: #3c6; color: white !important;
+    font-weight:bold; font-size: 110%; border-radius: 2px; cursor: hand; }

@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0" xmlns:ee_addon="http://ee-garage.com/nsm_addon_updater"> 
+	<channel> 
+		<title>RogEE Scraper: changelog</title> 
+		<link>http://rog.ee/versions/scraper</link> 
+		<description>Changes and updates to Michael Rog's "Scraper" EE2 plug-in: http://rog.ee/scraper</description> 
+		<item> 
+			<title>Version 1.0.0</title> 
+			<ee_addon:version>1.0.0</ee_addon:version> 
+			<link>http://rog.ee/scraper</link> 
+			<pubDate>Fri, 28 Dec 2012 11:11:00 +0600</pubDate> 
+			<description><![CDATA[
+			<ul> 
+				<li>Public Beta!</li>
+			</ul> 
+			]]></description> 
+		</item>
+	</channel> 
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0" xmlns:ee_addon="http://ee-garage.com/nsm_addon_updater"> 
+	<channel> 
+		<title>RogEE Show Me My Assets! changelog</title> 
+		<link>http://rog.ee/versions/show_me_my_assets</link> 
+		<description>Changes and updates to Michael Rog's "Show Me My Assets!" EE2 extension: http://rog.ee/show_me_my_assets</description> 
+		<item> 
+			<title>Version 1.0.0</title> 
+			<ee_addon:version>1.0.0</ee_addon:version> 
+			<link>http://rog.ee/show_me_my_assets</link> 
+			<pubDate>Wed, 6 July 2011 03:03:00 +0000</pubDate> 
+			<description><![CDATA[
+				<ul> 
+					<li>First draft...</li> 
+					<li>Points the "File Manager" CP nav item to Assets browser, if it is installed.</li>
+					<li>Supports <a href="http://ee-garage.com/nsm-addon-updater">NSM Addon Updater</a>.</li> 
+					<li>Please email me if you come across any bugs or behavioral inconsistencies!</li> 
+				</ul>
+				<p><em>Thanks to <a href="http://adamfairholm.com">Adam Fairholm</a> for <a href="http://blog.adamfairholm.com/expressionengine-cp-menu-manipulation/">starting the discussion</a> about the undocumented but extremely useful <strong>cp_menu_array</strong> extension hook that makes this extension possible!</em></p>
+		    ]]>
+			</description>
+			<enclosure url="http://repo.rog.ee/show_me_my_assets/get/1.0.zip" type="application/zip" />
+		</item>
+		<item> 
+			<title>Version 1.1.0</title> 
+			<ee_addon:version>1.1.0</ee_addon:version> 
+			<link>http://rog.ee/show_me_my_assets</link> 
+			<pubDate>Wed, 11 April 2012 05:05:00 +0600</pubDate> 
+			<description><![CDATA[
+				<ul> 
+					<li>Added "expand subfolders" functionality</li> 
+					<li>Added basic settings</li>
+					<li>Introduced proper last_call checks</li>
+				</ul>
+		    ]]>
+			</description>
+			<enclosure url="http://repo.rog.ee/show_me_my_assets/get/1.1.zip" type="application/zip" />
+		</item> 
+		<item> 
+			<title>Version 1.1.1</title> 
+			<ee_addon:version>1.1.1</ee_addon:version> 
+			<link>http://rog.ee/show_me_my_assets</link> 
+			<pubDate>Wed, 8 May 2012 11:11:00 +0600</pubDate> 
+			<description><![CDATA[
+				<ul> 
+					<li>Fixed "expand subfolders" functionality to work consistently in File Manager and in-field file browser</li> 
+					<li>Version bump</li>
+				</ul>
+		    ]]>
+			</description>
+			<enclosure url="http://repo.rog.ee/show_me_my_assets/get/1.1.zip" type="application/zip" />
+		</item> 
+	</channel> 
+</rss>
+
+
+
+
+

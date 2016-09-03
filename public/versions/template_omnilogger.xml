@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0" xmlns:ee_addon="http://ee-garage.com/nsm_addon_updater"> 
+	<channel> 
+		<title>RogEE Template OmniLogger: changelog</title> 
+		<link>http://rog.ee/versions/template_omnilogger</link> 
+		<description>Changes and updates to Michael Rog's "OmniLogger" EE2 plug-in (http://rog.ee/template_omnilogger)</description>
+		<item> 
+			<title>Version 0.1.0</title> 
+			<ee_addon:version>0.1.0</ee_addon:version> 
+			<link>http://rog.ee/template_omnilogger</link> 
+			<pubDate>Sat, 21 July 2012 11:11:00 +0600</pubDate> 
+			<description><![CDATA[
+			<ul> 
+				<li>Beta testing...</li>
+			</ul> 
+			]]></description> 
+		</item>
+		<item> 
+			<title>Version 1.0.0</title> 
+			<ee_addon:version>1.0.0</ee_addon:version> 
+			<link>http://rog.ee/template_omnilogger</link> 
+			<pubDate>Sat, 23 July 2012 6:17:00 +0600</pubDate> 
+			<description><![CDATA[
+			<ul> 
+				<li>Initial public release. With a tip-o-the-hat to Stephen Lewis / ExperienceInternet.</li>
+			</ul> 
+			]]></description>
+			<enclosure url="http://repo.rog.ee/template_omnilogger/get/1.0.zip" type="application/zip" />
+		</item>
+	</channel> 
+</rss>

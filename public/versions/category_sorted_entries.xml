@@ -1,0 +1,46 @@
+
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0" xmlns:ee_addon="http://ee-garage.com/nsm_addon_updater"> 
+	<channel> 
+		<title>RogEE Category Sorted Entries: changelog</title> 
+		<link>http://rog.ee/versions/category_sorted_entries</link> 
+		<description>Changes and updates to Michael Rog's "Category Sorted Entries" EE2 plug-in: http://michaelrog.com/ee/category-sorted-entries</description> 
+		<item> 
+			<title>Version 2.0.0</title> 
+			<ee_addon:version>2.0.0</ee_addon:version> 
+			<link>http://rog.ee/category_sorted_entries</link> 
+			<pubDate>Wed, 23 Mar 2011 11:11:00 +0600</pubDate> 
+			<description><![CDATA[
+			<ul> 
+				<li>Version 1 is now <a href="http://michaelrog.com/ee/category-sorted-entries-lite">Category Sorted Entries Lite</a>, available for free at Devot:ee.</li> 
+				<li>Version 2 features more parameters, more variables, Custom Channel Fields, faster processing, and much cleaner code.</li> 
+				<li>2.0.0 is a public beta release.</li> 
+				<li>Available for <a href="http://devot-ee.com/add-ons/category-sorted-entries/">purchase/download</a> at Devot:ee.</a> 
+			</ul> 
+			]]></description> 
+		</item> 
+		<item> 
+			<title>Version 2.1.0</title> 
+			<ee_addon:version>2.1.0</ee_addon:version> 
+			<link>http://rog.ee/category_sorted_entries</link> 
+			<pubDate>Fri, 22 July 2011 01:00:00 +0600</pubDate> 
+			<description><![CDATA[
+			<ul> 
+				<li>Restructured repo/download to match EE system directory structure</li> 
+				<li>SQL query fix (re: <a href="http://devot-ee.com/add-ons/support/category-sorted-entries/viewthread/2184/">devot:ee thread 2184</a>)</li>
+			</ul> 
+			]]></description> 
+		</item> 
+		<item> 
+			<title>Version 2.3.0</title> 
+			<ee_addon:version>2.1.0</ee_addon:version> 
+			<link>http://rog.ee/category_sorted_entries</link> 
+			<pubDate>Fri, 11 May 2012 15:15:00 +0600</pubDate> 
+			<description><![CDATA[
+			<ul> 
+				<li>fixed a bug that prevented the plugin from showing entries from multiple channels (re: <a href="http://devot-ee.com/add-ons/support/category-sorted-entries/viewthread/5309">devot:ee thread 5309</a>)</li>
+			</ul> 
+			]]></description> 
+		</item>
+	</channel> 
+</rss>
