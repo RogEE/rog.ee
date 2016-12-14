@@ -33,7 +33,7 @@
 		</item> 
 		<item> 
 			<title>Version 2.3.0</title> 
-			<ee_addon:version>2.1.0</ee_addon:version> 
+			<ee_addon:version>2.3.0</ee_addon:version>
 			<link>http://rog.ee/category_sorted_entries</link> 
 			<pubDate>Fri, 11 May 2012 15:15:00 +0600</pubDate> 
 			<description><![CDATA[
@@ -41,6 +41,17 @@
 				<li>fixed a bug that prevented the plugin from showing entries from multiple channels (re: <a href="http://devot-ee.com/add-ons/support/category-sorted-entries/viewthread/5309">devot:ee thread 5309</a>)</li>
 			</ul> 
 			]]></description> 
+		</item>
+		<item>
+			<title>Version 2.3.1</title>
+			<ee_addon:version>2.3.1</ee_addon:version>
+			<link>http://rog.ee/category_sorted_entries</link>
+			<pubDate>Wed, 14 Dec 2016 04:00:00 -0600</pubDate>
+			<description><![CDATA[
+			<ul>
+				<li>Updated the `usage` method to be properly static, to prevent warnings in modern PHP versions.</li>
+			</ul>
+			]]></description>
 		</item>
 	</channel> 
 </rss>

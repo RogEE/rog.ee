@@ -6,7 +6,7 @@
 
 <article class="g_12">
 
-	<h1>Category Sorted Entries 2.3.0</h1>
+	<h1>Category Sorted Entries 2.3.1</h1>
 
 	<p>Like the built-in EE Category Archive, but way mo' better (i.e. with tons more variables and parameters for added control).</p>
 
